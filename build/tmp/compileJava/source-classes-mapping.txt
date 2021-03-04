@@ -14,3 +14,5 @@ edabit/medium/WarOfNumbers.java
  edabit.medium.WarOfNumbers
 edabit/veryhard/SameLetterPatterns.java
  edabit.veryhard.SameLetterPatterns
+edabit/veryhard/AddTwoStringNumbers.java
+ edabit.veryhard.AddTwoStringNumbers

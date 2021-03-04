@@ -3,6 +3,11 @@ package edabit.veryhard;
 import java.util.*;
 import java.util.stream.Collectors;
 
+// Create a function that returns true if two strings share the same letter pattern, and false otherwise.
+// "ABAB", "CDCD" ➞ true
+// "ABCBA", "BCDCB" ➞ true
+// "FFGG", "CDCD" ➞ false
+// "FFFF", "ABCD" ➞ false
 public class SameLetterPatterns {
     static List<Integer> encode(String str) {
         return str.chars()

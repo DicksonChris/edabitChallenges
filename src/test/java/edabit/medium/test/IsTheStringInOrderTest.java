@@ -1,7 +1,6 @@
 package edabit.medium.test;
 
 import edabit.medium.IsTheStringInOrder;
-
 import org.junit.Test;
 
 import static org.junit.Assert.*;

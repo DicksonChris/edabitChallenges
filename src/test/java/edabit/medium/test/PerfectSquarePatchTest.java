@@ -3,6 +3,7 @@ package edabit.medium.test;
 import edabit.medium.PerfectSquarePatch;
 import org.junit.Test;
 import java.util.Arrays;
+
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
 public class PerfectSquarePatchTest {

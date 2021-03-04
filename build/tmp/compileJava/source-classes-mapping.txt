@@ -2,8 +2,8 @@ edabit/veryhard/nearest/chapter/Chapter.java
  edabit.veryhard.nearest.chapter.Chapter
 edabit/hard/BuildingUpAWord.java
  edabit.hard.BuildingUpAWord
-edabit/medium/RoundInMillions.java
- edabit.medium.RoundInMillions
+edabit/veryhard/SameLetterPatterns.java
+ edabit.veryhard.SameLetterPatterns
 edabit/hard/FindTheOddInteger.java
  edabit.hard.FindTheOddInteger
 edabit/medium/PerfectSquarePatch.java
@@ -16,7 +16,7 @@ edabit/hard/SevenBoom.java
  edabit.hard.SevenBoom
 edabit/medium/WarOfNumbers.java
  edabit.medium.WarOfNumbers
+edabit/medium/RoundInMillions.java
+ edabit.medium.RoundInMillions
 edabit/veryhard/AddTwoStringNumbers.java
  edabit.veryhard.AddTwoStringNumbers
-edabit/veryhard/SameLetterPatterns.java
- edabit.veryhard.SameLetterPatterns

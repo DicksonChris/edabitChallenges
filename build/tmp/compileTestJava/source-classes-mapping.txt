@@ -6,8 +6,8 @@ edabit/hard/test/SevenBoomTest.java
  edabit.hard.test.SevenBoomTest
 edabit/veryhard/test/AddTwoStringNumbersTest.java
  edabit.veryhard.test.AddTwoStringNumbersTest
-edabit/medium/test/WarOfNumbersTest.java
- edabit.medium.test.WarOfNumbersTest
+edabit/hard/test/FindTheOddIntegerTest.java
+ edabit.hard.test.FindTheOddIntegerTest
 edabit/medium/test/PerfectSquarePatchTest.java
  edabit.medium.test.PerfectSquarePatchTest
 edabit/medium/test/RoundInMillionsTest.java
@@ -16,5 +16,5 @@ edabit/hard/test/BuildingUpAWordTest.java
  edabit.hard.test.BuildingUpAWordTest
 edabit/veryhard/test/NearestChapterTest.java
  edabit.veryhard.test.NearestChapterTest
-edabit/hard/test/FindTheOddIntegerTest.java
- edabit.hard.test.FindTheOddIntegerTest
+edabit/medium/test/WarOfNumbersTest.java
+ edabit.medium.test.WarOfNumbersTest

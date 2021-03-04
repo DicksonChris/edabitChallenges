@@ -2,6 +2,7 @@ package edabit.hard.test;
 
 import edabit.hard.FindTheOddInteger;
 import org.junit.Test;
+
 import static org.junit.Assert.assertEquals;
 
 public class FindTheOddIntegerTest {

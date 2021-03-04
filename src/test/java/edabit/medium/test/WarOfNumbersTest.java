@@ -1,8 +1,8 @@
 package edabit.medium.test;
 
 import edabit.medium.WarOfNumbers;
-
 import org.junit.Test;
+
 import static org.junit.Assert.*;
 
 public class WarOfNumbersTest {

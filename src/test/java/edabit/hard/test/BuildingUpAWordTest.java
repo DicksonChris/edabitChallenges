@@ -1,12 +1,9 @@
 package edabit.hard.test;
 
-import static org.hamcrest.core.Is.is;
-
 import edabit.hard.BuildingUpAWord;
 import org.junit.Test;
 
 import static org.junit.Assert.assertFalse;
-import static org.junit.Assert.assertThat;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
 public class BuildingUpAWordTest {

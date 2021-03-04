@@ -1,7 +1,5 @@
 package edabit.veryhard;
 
-import java.math.BigInteger;
-
 /*
     If there are any non-numerical characters, return "-1".
     An empty parameter should be treated as "0".

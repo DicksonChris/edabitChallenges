@@ -1,13 +1,13 @@
 package edabit.veryhard.test;
 
-import static org.junit.Assert.assertEquals;
-
 import edabit.veryhard.nearest.chapter.NearestChapter;
 import edabit.veryhard.nearest.chapter.Chapter;
 import org.junit.Test;
 
+import static org.junit.Assert.assertEquals;
+
 public class NearestChapterTest {
-    private Chapter[][] chapterVector = new Chapter[][] {
+    private final Chapter[][] chapterVector = new Chapter[][] {
             {new Chapter("Chapter 1", 1), new Chapter("Chapter 2", 15), new Chapter("Chapter 3", 37)},
             {new Chapter("New Beginnings", 1), new Chapter("Strange Developments", 62), new Chapter("The End?", 194), new Chapter("The True Ending", 460)},
             {new Chapter("Chapter 1a", 1), new Chapter("Chapter 1b", 5)},
@@ -16,8 +16,8 @@ public class NearestChapterTest {
             {new Chapter("Chapter 1a", 1), new Chapter("Chapter 1b", 5), new Chapter("Chapter 1c", 50), new Chapter("Chapter 1d", 100), new Chapter("Chapter 1e", 200)},
             {new Chapter("Chapter 1a", 1), new Chapter("Chapter 1b", 5), new Chapter("Chapter 1c", 50), new Chapter("Chapter 1d", 100), new Chapter("Chapter 1e", 200), new Chapter("Chapter 1f", 400)}
     };
-    private int[] pageVector = new int[] {10, 200, 3, 75, 150, 74, 300};
-    private String[] resVector = new String[] {
+    private final int[] pageVector = new int[] {10, 200, 3, 75, 150, 74, 300};
+    private final String[] resVector = new String[] {
             "Chapter 2", "The End?", "Chapter 1b", "Chapter 1d", "Chapter 1e", "Chapter 1c", "Chapter 1f"
     };
 

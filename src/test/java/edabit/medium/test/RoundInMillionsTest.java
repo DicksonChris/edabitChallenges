@@ -1,9 +1,9 @@
 package edabit.medium.test;
 
-import static org.junit.Assert.assertArrayEquals;
-
 import edabit.medium.RoundInMillions;
 import org.junit.Test;
+
+import static org.junit.Assert.assertArrayEquals;
 
 public class RoundInMillionsTest {
     @Test

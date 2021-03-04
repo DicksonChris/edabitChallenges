@@ -8,9 +8,9 @@ edabit/veryhard/nearest/chapter/NearestChapter.java
  edabit.veryhard.nearest.chapter.NearestChapter
 edabit/medium/IsTheStringInOrder.java
  edabit.medium.IsTheStringInOrder
-edabit/veryhard/placeholder.java
- edabit.veryhard.placeholder
-edabit/medium/WarOfNumbers.java
- edabit.medium.WarOfNumbers
 edabit/hard/SevenBoom.java
  edabit.hard.SevenBoom
+edabit/medium/WarOfNumbers.java
+ edabit.medium.WarOfNumbers
+edabit/veryhard/SameLetterPatterns.java
+ edabit.veryhard.SameLetterPatterns

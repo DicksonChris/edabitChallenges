@@ -1,6 +1,8 @@
-edabit/medium/test/RoundToMillionsTest.java
- edabit.medium.test.RoundToMillionsTest
-edabit/medium/test/IsTheStringInOrderTest.java
- edabit.medium.test.IsTheStringInOrderTest
 edabit/medium/test/WarOfNumbersTest.java
  edabit.medium.test.WarOfNumbersTest
+edabit/medium/test/IsTheStringInOrderTest.java
+ edabit.medium.test.IsTheStringInOrderTest
+edabit/medium/test/RoundToMillionsTest.java
+ edabit.medium.test.RoundToMillionsTest
+edabit/veryhard/test/BookChapterTests.java
+ edabit.veryhard.test.BookChapterTests

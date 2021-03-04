@@ -4,3 +4,9 @@ edabit/medium/IsTheStringInOrder.java
  edabit.medium.IsTheStringInOrder
 edabit/medium/WarOfNumbers.java
  edabit.medium.WarOfNumbers
+edabit/veryhard/nearest/chapter/Chapter.java
+ edabit.veryhard.nearest.chapter.Chapter
+edabit/veryhard/placeholder.java
+ edabit.veryhard.placeholder
+edabit/veryhard/nearest/chapter/BookChapter.java
+ edabit.veryhard.nearest.chapter.BookChapter

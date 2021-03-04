@@ -1,9 +1,11 @@
 package edabit.medium;
 
+import java.util.Arrays;
+
 // Given an array of cities and populations,
 // return an array where all populations are rounded to the nearest million.
 // Round down to 0 if a population is below 500,000.
-public class RoundToMillions {
+public class RoundInMillions {
     public static Object[] millionsRounding(Object[] cities) {
         for (int i = 0; i < cities.length; i++) {
             Object[] city = (Object[]) cities[i];
@@ -15,6 +17,7 @@ public class RoundToMillions {
         }
         return cities;
     }
+
     private static int roundToNearestMillion(Object pop) {
         return (int) (Math.round((int) pop / 1e6) * 1e6);
     }

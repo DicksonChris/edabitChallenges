@@ -1,14 +1,16 @@
+edabit/medium/RoundInMillions.java
+ edabit.medium.RoundInMillions
+edabit/veryhard/nearest/chapter/Chapter.java
+ edabit.veryhard.nearest.chapter.Chapter
+edabit/medium/PerfectSquarePatch.java
+ edabit.medium.PerfectSquarePatch
 edabit/veryhard/nearest/chapter/NearestChapter.java
  edabit.veryhard.nearest.chapter.NearestChapter
 edabit/medium/IsTheStringInOrder.java
  edabit.medium.IsTheStringInOrder
-edabit/medium/WarOfNumbers.java
- edabit.medium.WarOfNumbers
-edabit/veryhard/nearest/chapter/Chapter.java
- edabit.veryhard.nearest.chapter.Chapter
 edabit/veryhard/placeholder.java
  edabit.veryhard.placeholder
-edabit/medium/RoundToMillions.java
- edabit.medium.RoundToMillions
-edabit/medium/PerfectSquarePatch.java
- edabit.medium.PerfectSquarePatch
+edabit/medium/WarOfNumbers.java
+ edabit.medium.WarOfNumbers
+edabit/hard/SevenBoom.java
+ edabit.hard.SevenBoom

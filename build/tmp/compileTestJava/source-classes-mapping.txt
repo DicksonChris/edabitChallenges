@@ -1,10 +1,12 @@
-edabit/medium/test/WarOfNumbersTest.java
- edabit.medium.test.WarOfNumbersTest
 edabit/medium/test/IsTheStringInOrderTest.java
  edabit.medium.test.IsTheStringInOrderTest
-edabit/medium/test/RoundToMillionsTest.java
- edabit.medium.test.RoundToMillionsTest
+edabit/medium/test/WarOfNumbersTest.java
+ edabit.medium.test.WarOfNumbersTest
 edabit/medium/test/PerfectSquarePatchTest.java
  edabit.medium.test.PerfectSquarePatchTest
+edabit/medium/test/RoundInMillionsTest.java
+ edabit.medium.test.RoundInMillionsTest
 edabit/veryhard/test/NearestChapterTest.java
  edabit.veryhard.test.NearestChapterTest
+edabit/hard/test/SevenBoomTest.java
+ edabit.hard.test.SevenBoomTest

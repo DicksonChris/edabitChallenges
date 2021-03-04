@@ -4,5 +4,7 @@ edabit/medium/test/IsTheStringInOrderTest.java
  edabit.medium.test.IsTheStringInOrderTest
 edabit/medium/test/RoundToMillionsTest.java
  edabit.medium.test.RoundToMillionsTest
-edabit/veryhard/test/BookChapterTests.java
- edabit.veryhard.test.BookChapterTests
+edabit/medium/test/PerfectSquarePatchTest.java
+ edabit.medium.test.PerfectSquarePatchTest
+edabit/veryhard/test/NearestChapterTest.java
+ edabit.veryhard.test.NearestChapterTest

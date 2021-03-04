@@ -1,11 +1,21 @@
 package edabit.medium;
 
+// Given an array of cities and populations,
+// return an array where all populations are rounded to the nearest million.
+// Round down to 0 if a population is below 500,000.
 public class RoundToMillions {
     public static Object[] millionsRounding(Object[] cities) {
         for (int i = 0; i < cities.length; i++) {
-            Object[] k = (Object[])cities[i];
-            k[1] = (int)k[1] < 5e5 ? 0 : (int)(Math.round((int)k[1]/1e6)*1e6);
-            cities[i] = new Object[] { k[0], k[1] };}
+            Object[] city = (Object[]) cities[i];
+            // city[0] is the name, city[1] is the population
+            city[1] = ((int) city[1] < 5e5)
+                    ? 0 // Less than 500K round to 0
+                    : roundToNearestMillion(city[1]);
+            cities[i] = new Object[]{city[0], city[1]};
+        }
         return cities;
+    }
+    private static int roundToNearestMillion(Object pop) {
+        return (int) (Math.round((int) pop / 1e6) * 1e6);
     }
 }

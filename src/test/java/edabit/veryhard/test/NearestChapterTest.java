@@ -6,7 +6,7 @@ import edabit.veryhard.nearest.chapter.NearestChapter;
 import edabit.veryhard.nearest.chapter.Chapter;
 import org.junit.Test;
 
-public class NearestChapterTests {
+public class NearestChapterTest {
     private Chapter[][] chapterVector = new Chapter[][] {
             {new Chapter("Chapter 1", 1), new Chapter("Chapter 2", 15), new Chapter("Chapter 3", 37)},
             {new Chapter("New Beginnings", 1), new Chapter("Strange Developments", 62), new Chapter("The End?", 194), new Chapter("The True Ending", 460)},

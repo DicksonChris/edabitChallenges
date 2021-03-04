@@ -1,5 +1,5 @@
-edabit/medium/RoundToMillions.java
- edabit.medium.RoundToMillions
+edabit/veryhard/nearest/chapter/NearestChapter.java
+ edabit.veryhard.nearest.chapter.NearestChapter
 edabit/medium/IsTheStringInOrder.java
  edabit.medium.IsTheStringInOrder
 edabit/medium/WarOfNumbers.java
@@ -8,5 +8,7 @@ edabit/veryhard/nearest/chapter/Chapter.java
  edabit.veryhard.nearest.chapter.Chapter
 edabit/veryhard/placeholder.java
  edabit.veryhard.placeholder
-edabit/veryhard/nearest/chapter/BookChapter.java
- edabit.veryhard.nearest.chapter.BookChapter
+edabit/medium/RoundToMillions.java
+ edabit.medium.RoundToMillions
+edabit/medium/PerfectSquarePatch.java
+ edabit.medium.PerfectSquarePatch

@@ -12,3 +12,5 @@ edabit/hard/test/SevenBoomTest.java
  edabit.hard.test.SevenBoomTest
 edabit/veryhard/test/SameLetterPatternsTest.java
  edabit.veryhard.test.SameLetterPatternsTest
+edabit/veryhard/test/AddTwoStringNumbersTest.java
+ edabit.veryhard.test.AddTwoStringNumbersTest

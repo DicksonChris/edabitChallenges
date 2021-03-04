@@ -3,8 +3,10 @@ package edabit.hard;
 import java.util.*;
 import java.util.stream.Collectors;
 
-// Create a function that takes an array and finds the integer which appears an odd number of times.
-// There will always only be one integer that appears an odd number of times.
+/*
+ Create a function that takes an array and finds the integer which appears an odd number of times.
+ There will always only be one integer that appears an odd number of times.
+*/
 public class FindTheOddInteger {
     // More performant
     public static int findOdd(int[] arr) {

@@ -1,8 +1,10 @@
 package edabit.medium;
 
-// Create a function that takes an array of integers,
-// sums the even and odd numbers separately,
-// then returns the difference between sum of even and odd numbers.
+/*
+ Create a function that takes an array of integers,
+ sums the even and odd numbers separately,
+ then returns the difference between sum of even and odd numbers.
+*/
 public class WarOfNumbers {
     public static int warOfNumbers(int[] numbers) {
         int even = 0;

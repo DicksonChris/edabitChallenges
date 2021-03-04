@@ -14,3 +14,5 @@ edabit/veryhard/test/SameLetterPatternsTest.java
  edabit.veryhard.test.SameLetterPatternsTest
 edabit/veryhard/test/AddTwoStringNumbersTest.java
  edabit.veryhard.test.AddTwoStringNumbersTest
+edabit/hard/test/BuildingUpAWordTest.java
+ edabit.hard.test.BuildingUpAWordTest

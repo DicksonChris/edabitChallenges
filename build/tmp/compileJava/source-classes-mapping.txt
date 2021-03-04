@@ -16,3 +16,5 @@ edabit/veryhard/SameLetterPatterns.java
  edabit.veryhard.SameLetterPatterns
 edabit/veryhard/AddTwoStringNumbers.java
  edabit.veryhard.AddTwoStringNumbers
+edabit/hard/BuildingUpAWord.java
+ edabit.hard.BuildingUpAWord

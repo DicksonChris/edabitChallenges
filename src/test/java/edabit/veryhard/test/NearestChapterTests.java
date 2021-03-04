@@ -2,11 +2,11 @@ package edabit.veryhard.test;
 
 import static org.junit.Assert.assertEquals;
 
-import edabit.veryhard.nearest.chapter.BookChapter;
+import edabit.veryhard.nearest.chapter.NearestChapter;
 import edabit.veryhard.nearest.chapter.Chapter;
 import org.junit.Test;
 
-public class BookChapterTests {
+public class NearestChapterTests {
     private Chapter[][] chapterVector = new Chapter[][] {
             {new Chapter("Chapter 1", 1), new Chapter("Chapter 2", 15), new Chapter("Chapter 3", 37)},
             {new Chapter("New Beginnings", 1), new Chapter("Strange Developments", 62), new Chapter("The End?", 194), new Chapter("The True Ending", 460)},
@@ -23,36 +23,36 @@ public class BookChapterTests {
 
     @Test
     public void test01() {
-        assertEquals(BookChapter.nearestChapter(chapterVector[0], pageVector[0]), resVector[0]);
+        assertEquals(NearestChapter.nearestChapter(chapterVector[0], pageVector[0]), resVector[0]);
     }
 
     @Test
     public void test02() {
-        assertEquals(BookChapter.nearestChapter(chapterVector[1], pageVector[1]), resVector[1]);
+        assertEquals(NearestChapter.nearestChapter(chapterVector[1], pageVector[1]), resVector[1]);
     }
 
     @Test
     public void test03() {
-        assertEquals(BookChapter.nearestChapter(chapterVector[2], pageVector[2]), resVector[2]);
+        assertEquals(NearestChapter.nearestChapter(chapterVector[2], pageVector[2]), resVector[2]);
     }
 
     @Test
     public void test04() {
-        assertEquals(BookChapter.nearestChapter(chapterVector[3], pageVector[3]), resVector[3]);
+        assertEquals(NearestChapter.nearestChapter(chapterVector[3], pageVector[3]), resVector[3]);
     }
 
     @Test
     public void test05() {
-        assertEquals(BookChapter.nearestChapter(chapterVector[4], pageVector[4]), resVector[4]);
+        assertEquals(NearestChapter.nearestChapter(chapterVector[4], pageVector[4]), resVector[4]);
     }
 
     @Test
     public void test06() {
-        assertEquals(BookChapter.nearestChapter(chapterVector[5], pageVector[5]), resVector[5]);
+        assertEquals(NearestChapter.nearestChapter(chapterVector[5], pageVector[5]), resVector[5]);
     }
 
     @Test
     public void test07() {
-        assertEquals(BookChapter.nearestChapter(chapterVector[6], pageVector[6]), resVector[6]);
+        assertEquals(NearestChapter.nearestChapter(chapterVector[6], pageVector[6]), resVector[6]);
     }
 }

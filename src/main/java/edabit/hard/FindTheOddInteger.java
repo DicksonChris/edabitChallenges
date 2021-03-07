@@ -20,6 +20,8 @@ public class FindTheOddInteger {
         return odds.get(0);
     }
 }
+
+
 // // Using declarative style
 //    public static int findOdd(int[] arr) {
 //        HashMap<Integer, Integer> counts = new HashMap<>();

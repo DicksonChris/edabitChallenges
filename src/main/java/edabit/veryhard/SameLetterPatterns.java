@@ -22,6 +22,8 @@ public class SameLetterPatterns {
     }
 
 }
+
+
 // // Using declarative style
 //    public static boolean sameLetterPattern(String str1, String str2) {
 //        return getPattern(str1).equals(getPattern(str2));

@@ -20,6 +20,7 @@ public class Rearrange {
     }
 }
 
+
 // // edabit answer by user "Deep Xavier" using declarative style
 //public static String rearrange(String s) {
 //    return Stream.of(s.split(" "))

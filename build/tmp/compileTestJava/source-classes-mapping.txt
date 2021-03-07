@@ -18,3 +18,5 @@ edabit/veryhard/test/NearestChapterTest.java
  edabit.veryhard.test.NearestChapterTest
 edabit/medium/test/WarOfNumbersTest.java
  edabit.medium.test.WarOfNumbersTest
+edabit/veryhard/test/RearrangeTest.java
+ edabit.veryhard.test.RearrangeTest

@@ -1,3 +1,13 @@
+edabit/medium/PerfectSquarePatch.java
+ edabit.medium.PerfectSquarePatch
+edabit/veryhard/nearest/chapter/NearestChapter.java
+ edabit.veryhard.nearest.chapter.NearestChapter
+edabit/easy/ShuffleTheName.java
+ edabit.easy.ShuffleTheName
+edabit/veryhard/SameLetterPatterns.java
+ edabit.veryhard.SameLetterPatterns
+edabit/expert/battleship/Battleship.java
+ edabit.expert.battleship.Battleship
 edabit/hard/BuildingUpAWord.java
  edabit.hard.BuildingUpAWord
 edabit/medium/RoundInMillions.java
@@ -6,19 +16,19 @@ edabit/hard/FindTheOddInteger.java
  edabit.hard.FindTheOddInteger
 edabit/veryhard/nearest/chapter/Chapter.java
  edabit.veryhard.nearest.chapter.Chapter
-edabit/medium/PerfectSquarePatch.java
- edabit.medium.PerfectSquarePatch
-edabit/veryhard/nearest/chapter/NearestChapter.java
- edabit.veryhard.nearest.chapter.NearestChapter
+edabit/medium/HighAndLowNums.java
+ edabit.medium.HighAndLowNums
 edabit/medium/IsTheStringInOrder.java
  edabit.medium.IsTheStringInOrder
+edabit/expert/placeholder.java
+ edabit.expert.placeholder
 edabit/hard/SevenBoom.java
  edabit.hard.SevenBoom
 edabit/medium/WarOfNumbers.java
  edabit.medium.WarOfNumbers
 edabit/veryhard/AddTwoStringNumbers.java
  edabit.veryhard.AddTwoStringNumbers
-edabit/veryhard/SameLetterPatterns.java
- edabit.veryhard.SameLetterPatterns
+edabit/easy/IsTheWordAnIsogram.java
+ edabit.easy.IsTheWordAnIsogram
 edabit/veryhard/Rearrange.java
  edabit.veryhard.Rearrange

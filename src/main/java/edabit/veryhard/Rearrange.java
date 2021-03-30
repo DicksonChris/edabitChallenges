@@ -10,18 +10,15 @@ import java.util.stream.Stream;
 public class Rearrange {
 
     public static String rearrange(String s) {
-        String[] strArr = s.split(" ");
-        String[] resultArr = new String[strArr.length];
-        for (String str : strArr) {
-            int idx = new Scanner(str).useDelimiter("\\D+").nextInt() - 1;
-            resultArr[idx] = str.replaceAll("[\\d]", "");
-        }
-        return String.join(" ", resultArr);
+        return Stream.of(s.split(" "))
+                 .sorted(Comparator.comparing(a -> a.replaceAll("[^\\d]", "")))
+                 .collect(Collectors.joining(" "))
+                 .replaceAll("[\\d]", "");
     }
 }
 
 
-// // edabit answer by user "Deep Xavier" using declarative style
+// // edabit answer by user "Deep Xavier" using declarative style which is the basis for the above solution
 //public static String rearrange(String s) {
 //    return Stream.of(s.split(" "))
 //                 .sorted(Comparator.comparing(String::new, (a, b) -> a.replaceAll("[^\\d]", "").compareTo(b.replaceAll("[^\\d]", ""))))
@@ -29,6 +26,15 @@ public class Rearrange {
 //                 .replaceAll("[\\d]", "")
 //                 .trim();
 //}
+
+//  // Submitted attempt
+//        String[] strArr = s.split(" ");
+//        String[] resultArr = new String[strArr.length];
+//        for (String str : strArr) {
+//            int idx = new Scanner(str).useDelimiter("\\D+").nextInt() - 1;
+//            resultArr[idx] = str.replaceAll("[\\d]", "");
+//        }
+//        return String.join(" ", resultArr);
 
 // // First attempt, works but is bad
 //    public static String rearrange(String s) {

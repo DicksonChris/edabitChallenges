@@ -1,22 +1,28 @@
 edabit/medium/test/IsTheStringInOrderTest.java
  edabit.medium.test.IsTheStringInOrderTest
+edabit/veryhard/test/AddTwoStringNumbersTest.java
+ edabit.veryhard.test.AddTwoStringNumbersTest
+edabit/medium/test/PerfectSquarePatchTest.java
+ edabit.medium.test.PerfectSquarePatchTest
+edabit/easy/test/ShuffleTheNameTest.java
+ edabit.easy.test.ShuffleTheNameTest
+edabit/medium/test/WarOfNumbersTest.java
+ edabit.medium.test.WarOfNumbersTest
 edabit/veryhard/test/SameLetterPatternsTest.java
  edabit.veryhard.test.SameLetterPatternsTest
 edabit/hard/test/SevenBoomTest.java
  edabit.hard.test.SevenBoomTest
-edabit/veryhard/test/AddTwoStringNumbersTest.java
- edabit.veryhard.test.AddTwoStringNumbersTest
 edabit/hard/test/FindTheOddIntegerTest.java
  edabit.hard.test.FindTheOddIntegerTest
-edabit/medium/test/PerfectSquarePatchTest.java
- edabit.medium.test.PerfectSquarePatchTest
+edabit/medium/test/HighAndLowNumsTest.java
+ edabit.medium.test.HighAndLowNumsTest
+edabit/veryhard/test/RearrangeTest.java
+ edabit.veryhard.test.RearrangeTest
 edabit/medium/test/RoundInMillionsTest.java
  edabit.medium.test.RoundInMillionsTest
 edabit/hard/test/BuildingUpAWordTest.java
  edabit.hard.test.BuildingUpAWordTest
 edabit/veryhard/test/NearestChapterTest.java
  edabit.veryhard.test.NearestChapterTest
-edabit/medium/test/WarOfNumbersTest.java
- edabit.medium.test.WarOfNumbersTest
-edabit/veryhard/test/RearrangeTest.java
- edabit.veryhard.test.RearrangeTest
+edabit/easy/test/IsTheWordAnIsogramTest.java
+ edabit.easy.test.IsTheWordAnIsogramTest
